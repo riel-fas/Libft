@@ -67,8 +67,3 @@
 - `ft_lstmap` – Create a new list by applying a function to each element  
 
 ---
-
-## 🧪 **Testing**
-Run the test script to check all functions:  
-```bash
-make test

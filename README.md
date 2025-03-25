@@ -8,13 +8,6 @@
 
 ---
 
-## 🚀 **Features**
-✅ Custom implementations of standard C library functions  
-✅ Additional useful functions for handling strings, memory, and linked lists  
-✅ Clean and optimized code following the Norminette rules  
-
----
-
 ## 🏗️ **Functions Included**
 ### 🧠 **Libc Functions**
 - `ft_memset` – Fill memory with a constant byte  

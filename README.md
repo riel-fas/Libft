@@ -1,5 +1,5 @@
 # 🏛️ **Libft**  
-[![42](https://img.shields.io/badge/42-Project-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr) [![Language](https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
+[![42](https://img.shields.io/badge/42-Project-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr) [![1337](https://img.shields.io/badge/1337-Project-000000?style=for-the-badge&logo=1337&logoColor=white)](https://1337.ma) [![Language](https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
 
 ---
 
@@ -67,3 +67,8 @@
 - `ft_lstmap` – Create a new list by applying a function to each element  
 
 ---
+
+## 🧪 **Testing**
+Run the test script to check all functions:  
+```bash
+make test
